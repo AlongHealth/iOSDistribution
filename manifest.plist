@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://alonghealth.de/images/Logo_AlongHealth.svg</string>
+					<string>https://github.com/AlongHealth/iOSDistribution/raw/main/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://alonghealth.de/images/Logo_AlongHealth.svg</string>
+					<string>https://github.com/AlongHealth/iOSDistribution/raw/main/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
